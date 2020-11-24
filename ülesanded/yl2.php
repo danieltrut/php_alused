@@ -1,6 +1,6 @@
 <body style="font-size: 22px;">
 <?php
-/*Ülesanne 1 Daniil Tr 24.11.2020*/
+/*Ülesanne 2 Daniil Tr 24.11.2020*/
 //aritmeetilised operaatorid
     $x = 8;
     $y = 2;
